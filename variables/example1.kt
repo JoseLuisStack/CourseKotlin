@@ -4,4 +4,8 @@ fun main(){
 	//----------
 	//----------
 	//----------
+	var solution  = asdas 
+	var flag = true
+	var asd = sdad
+
 }
